@@ -1,4 +1,11 @@
 # system.prop for titan
 
+# Build.prop data
+ro.product.device=titan
+ro.product.model=Moto G 2014
+
+# OTA
+ro.ota.manifest=http://maxicm.com/titan/ota.xml
+
 # audio
 ro.audio.monitorRotation=1
