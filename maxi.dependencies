@@ -1,5 +1,25 @@
 [
   {
+    "repository":  "android_kernel_motorola_titan",
+    "target_path": "kernel/motorola/titan"
+  },
+  {
+    "repository": "android_external_mm-dash",
+    "target_path": "external/mm-dash"
+  },
+  {
+    "repository": "android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola"
+  },
+  {
     "repository": "android_device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common"
   }
